@@ -2,7 +2,7 @@
 
 ## Day 0: January 09, 2021
 
-### (delete me or comment me out)
+### CSS - Flexbox - Media Query
 
 **Today's Progress**: created a resposive page that displays pricing details of product.
 
