@@ -18,7 +18,7 @@
 
 **Thoughts:** learnt how JS Interpreter keeps track of function call and the place to return, given its single threaded nature. facinated by how webAPIs aid in parts where JS is not suitable. and learn about callback hell, and the introduction of Promises as a potential solution for this issue.
 
-## Day 1: Aoril 02, 2021
+## Day 2: April 02, 2021
 
 ### JavaScript -> async/await - Promises
 
