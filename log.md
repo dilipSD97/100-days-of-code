@@ -17,3 +17,13 @@
 **Today's Progress**: learnt about Callstack, WebAPIs & Callback Hell.
 
 **Thoughts:** learnt how JS Interpreter keeps track of function call and the place to return, given its single threaded nature. facinated by how webAPIs aid in parts where JS is not suitable. and learn about callback hell, and the introduction of Promises as a potential solution for this issue.
+
+## Day 1: Aoril 02, 2021
+
+### JavaScript -> async/await - Promises
+
+**Today's Progress**: learnt about Promises and various way to deal with them.
+
+**Thoughts:** learnt why call backs are bad way to implement asynchronous operations, and how promises evolved over time from callback to using then() and catch() to async-await syntax. async await give an absolute sytactic sugar and also makes it easier to implement asynchronous features.
+
+**Link to work:** [Repository URL](./data/day2/callbacks.png)
