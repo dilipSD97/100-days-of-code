@@ -47,3 +47,11 @@
 **Thoughts:** learned how simple Axios makes it to do HTTP request, refreshed on Bootstrap, Array functions, DOM manipulation and events.
 
 **Link to work:** [Repository URL](./data/day4)
+
+## Day 5: May 02, 2021
+
+### JavaScript -> Prototypes, Factory functions, Classes
+
+**Today's Progress**: Learnt about Prototypes, Factory functions vs Constructor functions vs Classes, OOP in JS.
+
+**Thoughts:** Learned what those mysterios "\_\_proto\_\_" in every object in javascript. learnt how OOP is implemeted in JS. Why Constructor functions are better then Factory Functions and what advantage ES5 Classes offers over Constructor functions. Learned basic OOP concepts such as inheritence(super, extends) in JS.
