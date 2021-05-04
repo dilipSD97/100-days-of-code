@@ -52,6 +52,22 @@
 
 ### JavaScript -> Prototypes, Factory functions, Classes
 
-**Today's Progress**: Learnt about Prototypes, Factory functions vs Constructor functions vs Classes, OOP in JS.
+**Today's Progress**: Learned about Prototypes, Factory functions vs Constructor functions vs Classes, OOP in JS.
 
 **Thoughts:** Learned what those mysterios "\_\_proto\_\_" in every object in javascript. learnt how OOP is implemeted in JS. Why Constructor functions are better then Factory Functions and what advantage ES5 Classes offers over Constructor functions. Learned basic OOP concepts such as inheritence(super, extends) in JS.
+
+## Day 6: May 03, 2021
+
+### Terminal -> BASH, basic terminal commands
+
+**Today's Progress**: Learned about terminal commands that are essential for dev.
+
+**Thoughts:** Learned few terminal commands, revised some of the terminal commands I used.
+
+## Day 7: May 04, 2021
+
+### Node.JS -> Intro, Node REPL, Basics
+
+**Today's Progress**: Learned about node, node REPL, basics of node.
+
+**Thoughts:** Learned what node is, why we need it, what all it offers, difference between running js in browser and running js in node. global object, process object. learnt a bit about File System module in node.js
